@@ -1,0 +1,5 @@
+Main-Class: com.example.GameOfLife
+Built-By: Pavel Popov
+Specification-Title: Java Platform, Standard Edition
+Specification-Version: 11
+
